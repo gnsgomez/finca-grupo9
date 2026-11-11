@@ -1,3 +1,5 @@
+package ec.edu.uagraria.finca;
+
 public class Main {
 
     public static void main(String[] args) {

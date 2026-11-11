@@ -1,3 +1,5 @@
+package ec.edu.uagraria.suelovivo.alertas;
+
 public class ObservadorConsola implements ObservadorAlertas {
 
     @Override
