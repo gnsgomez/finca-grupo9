@@ -1,3 +1,5 @@
+package ec.edu.uagraria.finca;
+
 // Clase que implementa la interfaz. Representa un lote de producción. 
 
 public class Lote implements Trazable {

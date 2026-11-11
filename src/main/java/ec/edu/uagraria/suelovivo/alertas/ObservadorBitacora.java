@@ -1,3 +1,5 @@
+package ec.edu.uagraria.suelovivo.alertas;
+
 import java.util.ArrayList;
 import java.util.List;
 
